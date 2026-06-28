@@ -1,5 +1,5 @@
 var API_UPDATE_YEAR = 1448;
-var API_UPDATE_MONTH = 1;
+var API_UPDATE_MONTH = 3;
 // 1 محرم
 // 2 صفر
 // 3 ربيع الاول
