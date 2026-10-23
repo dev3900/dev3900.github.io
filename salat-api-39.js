@@ -12,7 +12,7 @@ var API_UPDATE_MONTH = 1;
 // 10 شوال
 // 11 ذو القعدة
 // 12 ذو الحجة
-var API_EXPIRE_BEFORE = 1;
+var API_EXPIRE_DAY = 29;
 var JS_TIMES = 
 [
 "-------------- JANUARY ----------------------------",
